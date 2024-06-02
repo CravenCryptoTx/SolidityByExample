@@ -1,0 +1,68 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "addr",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"constant": true,
+				"inputs": [],
+				"name": "getAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"payable": false,
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Copy_Inheritance3.sol": "A"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Copy_Inheritance3.sol": {
+			"keccak256": "0x4b50063879aa2598962e68705733762faaf6ee83df9d7c597019674b1b3738ed",
+			"urls": [
+				"bzz-raw://db414e3e9d41fe79304e4542468fd904b5fc3f61763a515f6282b8c211a6f10d",
+				"dweb:/ipfs/QmdpPxARxn97d28yrFNgdZaa7Cewj9FXAkynCJpVKfdoQk"
+			]
+		}
+	},
+	"version": 1
+}
